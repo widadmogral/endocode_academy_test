@@ -13,5 +13,5 @@ Copy file to home directory of user
 
 Change the file to an executable file with `chmod +x welcomescript.sh`
 
-Add ./welcomescript.sh at the end of users shell configuration file ( ~/.bashrc , ~/.zshrc) 
+Add ./welcomescript.sh at the end of users shell configuration file ( ~/.bashrc , ~/.zshrc). 
 
