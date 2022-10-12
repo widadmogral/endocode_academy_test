@@ -8,6 +8,7 @@ Uses basic unix commands like echo and date. Also uses weather command from weat
 
 clone the repo.
 
+make sure you have the weather-utils package
 
 Copy file to home directory of user
 
