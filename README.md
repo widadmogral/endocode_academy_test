@@ -8,8 +8,6 @@ Uses basic unix commands like echo and date. Also Downloads a weather report fro
 
 clone the repo.
 
-make sure you have the weather-utils package
-
 Copy file to home directory of user
 
 Change the file to an executable file with `chmod +x welcomescript.sh`
