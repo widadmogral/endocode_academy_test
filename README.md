@@ -2,7 +2,7 @@
 
 ## Welcome script to show date, time, weather and a welcome message when a user logs in.
 
-Uses basic unix commands like echo and date. Also uses weather command from weather-utils package.
+Uses basic unix commands like echo and date. Also Downloads a weather report from [wttr.in](wttr.in).
 
 ## Usage
 
